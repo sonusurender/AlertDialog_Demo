@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Android_AlertDialog_Demo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="neutral_button">Neutral Button Dialog</string>
+    <string name="positive_button">Positive Button Dialog</string>
+    <string name="negative_button">Negative Button Dialog</string>
+    <string name="list_dialog">List Dialog</string>
+     <string name="custom_dialog">Custom Dialog</string>
+    <string name="custom_button1">Custom Button1</string>
+    <string name="custom_button2">Custom Button2</string>
+    <string name="custom_title">Custom Title</string>
+    <string name="custom_message">This dilaog is totally custom.</string>
+
+</resources>
